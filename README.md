@@ -263,6 +263,9 @@ Mi amplia trayectoria profesional me permite ofrecer lo mejor a las empresas en 
                 </div>
             </div>
         </div>
+        <div class="footer-botton">
+        <p>copyright &copy;2023 JuanCardozo</p>
+       </div>
     </section>
 
     <script src="js/curriculum.js"></script>
